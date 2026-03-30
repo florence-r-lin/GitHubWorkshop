@@ -4,3 +4,10 @@ commit 3
 commit 4
 
 rebase edit test
+
+commit 5
+commit 6
+commit 7
+commit 8
+
+edit april 1
